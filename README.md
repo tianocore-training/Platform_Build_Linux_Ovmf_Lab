@@ -31,4 +31,4 @@
 # Platform_Build_Linux_Ovmf_Lab
 
 Platform Build Lab  - OVMF - with Ubuntu and Clear Linux* Project
-To see the Slides goto https://gitpitch.com/tianocore-trainng/Platform_Build_Linux_Ovmf_Lab/master#/
+To see the Slides goto https://gitpitch.com/tianocore-training/Platform_Build_Linux_Ovmf_Lab/master#/
